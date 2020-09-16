@@ -4,8 +4,8 @@ Include the date you created this project and README file.
 ### Project Title Github Project
 Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### Description 
+This is my Github project for version control
 
 ### Files used
 Include the files used
