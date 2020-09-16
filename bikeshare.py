@@ -10,7 +10,7 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'all']
 days = ['Sunday' ,'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'all']
 
 
-# function to get user input
+# This funtion asks for user input and explains how needs to be entered.
 def get_filters():
     """Function to get city, month and day inputs ."""
      
