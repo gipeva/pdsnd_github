@@ -177,6 +177,7 @@ def raw_data(df):
             break
     
 
+# This is the main funtion and identifies the functions that will be called. It calls the function in top to bottom order
 def main():
     while True:
         start_time = time.time()
