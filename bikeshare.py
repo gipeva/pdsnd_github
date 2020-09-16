@@ -10,7 +10,7 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'all']
 days = ['Sunday' ,'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'all']
 
 
-# function to get user input
+# This funtion asks for user input and explains how needs to be entered.
 def get_filters():
     """Function to get city, month and day inputs ."""
      
@@ -177,6 +177,7 @@ def raw_data(df):
             break
     
 
+# This is the main funtion and identifies the functions that will be called. It calls the function in top to bottom order
 def main():
     while True:
         start_time = time.time()
